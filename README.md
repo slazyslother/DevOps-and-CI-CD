@@ -33,6 +33,15 @@ This project involves setting up a CI/CD pipeline to automate the testing, build
   
 <br/>
 
+## Testing
+
+- __Unit Testing__: Verify the functionality of individual components.
+- __Integration Testing__: Ensure seamless integration between different parts of the application.
+- __Load Testing__: Simulate high traffic to test the application's scalability.
+- __End-to-End Testing__: Test the complete workflow from development to deployment.
+
+<br/>
+
 ## Example Scenarios
 
 - __Automated Testing__: Push code changes to the repository and verify that automated tests run successfully.
